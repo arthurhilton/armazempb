@@ -1,0 +1,77 @@
+header{
+	background-color: #DCDCDA;
+	height: 150px;
+	padding-top: 3%
+}
+body{
+	background: transparent;
+}
+html{
+	background: #f2f2f2;
+}
+
+.menu{
+	box-shadow: 0 .5rem 1rem rgba(0,0,0,.6)!important;
+	border-radius: 10px;
+	background: #fff;
+
+}
+
+
+.logo{
+	position: absolute;
+	margin-top: -2%;
+	margin-left: 4%;
+	
+}
+
+ul li{
+	margin-right: 1%;
+}
+
+ul li a{
+	    color: #000;
+}
+
+ul li a:hover{
+	    color: #ed1c24;
+}
+
+
+.tamanhofixo{
+	padding-top: 4%;
+	padding-right: 4%;
+	padding-left: 4%;
+	width: 100%;
+
+
+}
+
+.imgcarr{
+	max-height: 400px;
+}
+
+
+.divbt{
+	text-align: center;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.btn-outline-info{
+	border-radius: 20px;
+	color:blue;
+	border-color: blue;
+}
+.btn-outline-info:hover{
+	color: #000;
+}
+
+footer{
+	background-color: #DCDCDA;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    
+}
